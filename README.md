@@ -1,3 +1,7 @@
+The original PsychonautWiki Journal was changed from FOSS to closed source ARR recently. Presented here is an archive of the Android app from February 11th, 2025, before the license change (meaning it retains the original license). I claim no authorship or ownership of the contents. Presented below is the original README.
+
+
+
 Copyright (C) 2022 Isaak Hanimann.
 
 See the end of the file for license conditions.
@@ -7,12 +11,12 @@ See the end of the file for license conditions.
 PsychonautWiki Journal is an Android app to make recreational drug users safer. The aim is to provide features that are attractive to users as well as useful from a harm-reduction perspective.
 This app is built natively with [Jetpack Compose](https://developer.android.com/jetpack/compose).
 
-![A presentation of the App](https://github.com/isaakhanimann/psychonautwiki-journal-android/blob/main/metadata/en-US/images/Google%20Pixel%204%20XL%20Presentation.png?raw=true)
+![A presentation of the App](https://github.com/incandescencesy/psychonautwiki-journal-android/blob/main/metadata/en-US/images/Google%20Pixel%204%20XL%20Presentation.png?raw=true)
 
 <a href='https://play.google.com/store/apps/details?id=com.isaakhanimann.journal&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height='100' /></a>
 <a href='https://f-droid.org/en/packages/com.isaakhanimann.journal/'><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="100" /></a>
 
-Or download the latest version from [GitHub releases](https://github.com/isaakhanimann/psychonautwiki-journal-android/releases/latest).
+Or download the latest version from [GitHub releases](https://github.com/incandescencesy/psychonautwiki-journal-android/releases/latest).
 
 ## License
 
